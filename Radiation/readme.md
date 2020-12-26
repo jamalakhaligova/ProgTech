@@ -7,9 +7,9 @@ live. If a plant runs out of its nutrients, it dies. Each day one radiation type
 followings: alpha, delta, or no radiation. Radiations affect the plants differently based on their
 types. The reaction of a plant to a given radiation consists of the following: it changes its nutrient
 level, and affects the radiation of the next day. The radiation of the next day:
--a. alpha, if the need for alpha radiation is 3 or more greater than for the delta radiation
--b. delta, if the need for delta radiation is 3 or more greater than for the alpha radiation
--c. no radiation, otherwise
+- a. alpha, if the need for alpha radiation is 3 or more greater than for the delta radiation
+- b. delta, if the need for delta radiation is 3 or more greater than for the alpha radiation
+- c. no radiation, otherwise
 
 - There is no radiation on the first day…
 Simulate the behaviors of the plants, and print out the radiation of the day and the properties
