@@ -1,3 +1,5 @@
+Third assignment
+---
 - Create a game, with we can play the light-motorcycle battle (known from the Tron
 movie) in a top view. Two players play against each other with two motors, where each
 motor leaves a light trace behind of itself on the display. The motor goes in each seconds
